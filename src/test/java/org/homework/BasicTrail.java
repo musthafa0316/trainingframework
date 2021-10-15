@@ -17,4 +17,6 @@ public class BasicTrail extends Base{
 		WebElement btnClick = driver.findElement(By.xpath("//button[@type='submit']"));
 		buttonClick(btnClick);
 	}
+	
+	//basic trail update for github
 }
